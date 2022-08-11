@@ -2,7 +2,7 @@
 
 ## installation
 after install löve2d from this link
-(download löve2d)[https://love2d.org/#download]
+[download löve2d](https://love2d.org/#download)
 
 > just run run this CLI commands
 ```bash
